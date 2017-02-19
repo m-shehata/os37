@@ -8,7 +8,6 @@ ooo
 Shehata
 o%%
 %MM
-%Mo
 %M%
 %oM
 %oo
